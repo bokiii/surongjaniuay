@@ -1,0 +1,59 @@
+#content_area .articles {
+	margin: 10px;
+}
+
+#content_area .articles h3 {
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+#content_area .articles div {
+	margin-top: 20px;
+}
+
+#content_area .articles div img {
+	float: left;
+	margin-right: 15px;
+}
+
+#content_area .articles div h4 {
+	font-size: 18px;
+	color: #001D4F;
+	font-weight: bold;
+}
+
+#content_area .articles div a {
+	color: #F85811;
+}
+
+#content_area .articles div .articles_thumbnail {
+	width: 125px;
+	height: 125px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

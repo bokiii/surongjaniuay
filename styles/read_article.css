@@ -1,0 +1,48 @@
+#content_area .read_article {
+	margin: 10px;
+}
+
+#content_area .read_article .social_features {
+	margin-top: 30px;
+}
+
+#content_area .read_article .fb_comment_plugin {
+	margin-top: 40px;
+}
+
+#content_area .read_article h3 {
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+#content_area .read_article .content {
+	font-family: cambria;
+	margin-top: 10px;
+	padding: 10px;
+	border-box: box-sizing;
+	-moz-border-box: box-sizing;
+	-webkit-border-box: box-sizing;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

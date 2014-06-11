@@ -1,0 +1,15 @@
+#content_area .sumbong_kay_mayor {
+	margin: 10px;
+}
+
+#content_area .sumbong_kay_mayor h3 {
+	color: #F95811;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#content_area .sumbong_kay_mayor h3 span.log {
+	color: #5C5C5C;
+}
+
+
